@@ -1,4 +1,3 @@
-import Navbar from "./Navbar"
 import Home from "./Home"
 import Product from "./Products"
 import Tips from "./Tips"
@@ -11,7 +10,6 @@ import Footer from "./Footer"
 import NotFound from "./not_found"
 
 export {
-    Navbar,
     Home,
     Product,
     Tips,
